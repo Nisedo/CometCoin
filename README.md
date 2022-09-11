@@ -1,0 +1,2 @@
+# CometCoin
+Create a cryptocurrency
